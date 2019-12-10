@@ -19,7 +19,7 @@ const PersonList = () => {
   return (
     <section className="person-list">
       <Person img="10" name="Bozo" job="Developer" />
-      <Person img="20" name="Molly" job="Doggy">
+      <Person img="20" name="Molly Moo" job="Doggy">
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, qui?
         </p>
